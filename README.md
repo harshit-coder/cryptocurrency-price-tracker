@@ -1,22 +1,28 @@
+# Crypto Currency Converter
 
-comman to run the file.
+This project converts cryptocurrencies to a target currency you set. The main script to start the project is `main.py`. 
+
+## Configuration
+
+All configurations are written in `config.json`.
+
+## Requirements
+
+To run this script, you will need:
+
+1. **Google API Key**: Place it in `config.json`.
+2. **Spreadsheet ID**: Place it in `config.json`.
+3. **CoinGecko Demo API Key**: Place it in `config.json`.
+4. **Google OAuth Generated Credentials Data**: Place it in `google_credentials/dev_config.json`.
+5. **Environment Variables**: Create a `.env` file in the project directory with the necessary secret names for accessing important credentials.
+
+## .env File Content
+
+The content for the `.env` file will be shared personally. For the credentials, contact `kaluchaharshit22@gmail.com`.
+
+## Running the Script
+
+To start the script, use the following command:
+
+```sh
 python main.py
-
-
-This is a project which convert crypto currency to A target currency you set.
-
-the main file is main py to start the script
-
-All the configurarions are written in config.json
-
-##to run this script you will neeed
-1 google api key ( whixh you will put in config.json)
-2. spreadhseet id which you will put in config json
-3. coin gecko demo api key which you will put in config.json
-4. you will require google oauth generated credentials data which you will
-put in google_credentials/dev_config json
-5. you need to create a .env file and put it in project
-where tou will menion the secret names thoigh which  we are access important credentials environment wise
-
-.env content (shared personally)
-contact kaluchaharshit22@gmail.com for that
