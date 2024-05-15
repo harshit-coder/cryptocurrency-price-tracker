@@ -1,3 +1,8 @@
+
+comman to run the file.
+python main.py
+
+
 This is a project which convert crypto currency to A target currency you set.
 
 the main file is main py to start the script
