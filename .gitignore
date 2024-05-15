@@ -174,7 +174,3 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-config.json
-google_credentials/dev_creds.json
-google_credentials/prod_creds.json
-google_credentials/stage_creds.json
