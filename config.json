@@ -1,0 +1,38 @@
+{
+  "DEV/COIN_URL": "https://api.coingecko.com/api/v3/simple/price",
+  "STAGE/COIN_URL": "https://api.coingecko.com/api/v3/simple/price",
+  "PROD/COIN_URL": "https://api.coingecko.com/api/v3/simple/price",
+  "DEV/CURRENCY_TRACKER": "bitcoin,ethereum,ripple,litecoin,cardano",
+  "STAGE/CURRENCY_TRACKER": "bitcoin,ethereum,ripple,litecoin,cardano",
+  "PROD/CURRENCY_TRACKER": "bitcoin,ethereum,ripple,litecoin,cardano",
+  "DEV/SPREADSHEET_NAME": "Dev_Crypto_Price_Tracker",
+  "STAGE/SPREADSHEET_NAME": "Stage_Crypto_Price_Tracker",
+  "PROD/SPREADSHEET_NAME": "Prod_Crypto_Price_Tracker",
+  "DEV/TARGET_CURRENCY": "USD",
+  "STAGE/TARGET_CURRENCY": "USD",
+  "PROD/TARGET_CURRENCY": "USD",
+  "DEV/GOOGLE_API_KEY": "",
+  "STAGE/GOOGLE_API_KEY": "",
+  "PROD/GOOGLE_API_KEY": "",
+  "DEV/GOOGLE_SHEETS_SCOPE": "https://www.googleapis.com/auth/spreadsheets",
+  "STAGE/GOOGLE_SHEETS_SCOPE": "https://www.googleapis.com/auth/spreadsheets",
+  "PROD/GOOGLE_SHEETS_SCOPE": "https://www.googleapis.com/auth/spreadsheets",
+  "DEV/CRED_FILE": "dev_creds.json",
+  "STAGE/CRED_FILE": "stage_creds.json",
+  "PROD/CRED_FILE": "prod_creds.json",
+  "DEV/TOKEN_FILE": "dev_token.json",
+  "STAGE/TOKEN_FILE": "stage_token.json",
+  "PROD/TOKEN_FILE": "prod_token.json",
+  "DEV/SPREADSHEET_ID": "",
+  "STAGE/SPREADSHEET_ID": "",
+  "PROD/SPREADSHEET_ID": "",
+  "DEV/COIN_GECKO_HEADERS": {
+    "x-cg-demo-api-key": ""
+  },
+  "STAGE/COIN_GECKO_HEADERS": {
+    "x-cg-demo-api-key": ""
+  },
+  "PROD/COIN_GECKO_HEADERS": {
+    "x-cg-demo-api-key": ""
+  }
+}
