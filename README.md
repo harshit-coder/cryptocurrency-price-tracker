@@ -4,9 +4,9 @@ the main file is main py to start the script
 
 All the configurarions are written in config.json
 
-to run this script you will neeed
+##to run this script you will neeed
 1 google api key ( whixh you will put in config.json)
-2. sprradhseet id which you will put in config json
+2. spreadhseet id which you will put in config json
 3. coin gecko demo api key which you will put in config.json
 4. you will require google oauth generated credentials data which you will
 put in google_credentials/dev_config json
